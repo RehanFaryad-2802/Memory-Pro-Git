@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "color": "hsl(209 70% 51%)",
+    "created": "2025-08-25T13:32:13.220Z",
+    "id": "1756128733220504",
+    "meta": {
+      "sourceUrl": "chrome://extensions/"
+    },
+    "pinned": false,
+    "tags": [
+      "Info"
+    ],
+    "text": "Memory Pro 4.1.1 Local note/snippet manager with tags, pinning, search, auto-tagging, organize and theme.",
+    "type": "text",
+    "versions": []
+  },
+  {
+    "color": "hsl(289 76% 51%)",
+    "created": "2025-08-25T13:53:13.593Z",
+    "id": "1756129993593142",
+    "meta": {
+      "sourceUrl": "https://www.youtube.com/watch?v=50VNCymT-Cs"
+    },
+    "pinned": false,
+    "tags": [
+      "Content"
+    ],
+    "text": "Alec Benjamin - Let Me Down Slowly [Official Music Video]",
+    "type": "text",
+    "versions": []
+  },
+  {
+    "color": "hsl(26 78% 53%)",
+    "created": "2025-08-25T13:59:40.587Z",
+    "id": "1756130380587167",
+    "meta": {
+      "sourceUrl": "https://chat.deepseek.com/a/chat/s/847d1e4a-cbb4-49c5-82f1-57c04b1a49b8"
+    },
+    "pinned": false,
+    "tags": [
+      "Reference"
+    ],
+    "text": "i wanna not to store image but its relative content must save like soure link, text (title) and tag (i just wanna not to store image only), give only related code",
+    "type": "text",
+    "versions": []
+  },
+  {
+    "color": "hsl(39 74% 50%)",
+    "created": "2025-08-25T14:01:22.773Z",
+    "id": "175613048277368",
+    "meta": {
+      "sourceUrl": "https://www.youtube.com/watch?v=50VNCymT-Cs"
+    },
+    "pinned": false,
+    "tags": [
+      "Code"
+    ],
+    "text": "@BigmanPaulito 1 day ago He has so soft voice    Reply   @XOLRAZEL_Official 1 day ago Facebook mom lore:",
+    "type": "text",
+    "versions": []
+  },
+  {
+    "color": "hsl(250 70% 45%)",
+    "created": "2025-08-25T14:03:22.037Z",
+    "id": "1756130602037688",
+    "meta": {
+      "sourceUrl": "https://www.youtube.com/watch?v=50VNCymT-Cs"
+    },
+    "pinned": false,
+    "tags": [
+      "Series"
+    ],
+    "text": "Alec Benjamin is one of my favorite artist but I didn’t know that this song is also his I know this song, but I discovered Alec Benjamin over some of his songs which aren’t that famous",
+    "type": "text",
+    "versions": []
+  }
+]
