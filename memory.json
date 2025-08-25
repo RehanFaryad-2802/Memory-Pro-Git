@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "color": "hsl(209 70% 51%)",
+    "created": "2025-08-25T13:32:13.220Z",
+    "id": "1756128733220504",
+    "meta": {
+      "sourceUrl": "chrome://extensions/"
+    },
+    "pinned": false,
+    "tags": [
+      "Info"
+    ],
+    "text": "Memory Pro 4.1.1 Local note/snippet manager with tags, pinning, search, auto-tagging, organize and theme.",
+    "type": "text",
+    "versions": []
+  }
+]
