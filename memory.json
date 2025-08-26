@@ -1,39 +1,16 @@
 [
   {
-    "id": "1756172530708342",
-    "text": "my oni girl.",
-    "created": "2025-08-26T01:42:10.708Z",
-    "color": "hsl(325 79% 54%)",
+    "id": "1756172539160992",
+    "text": "my oni girl.\n\n---\n\nmy oni girl.",
+    "created": "2025-08-26T01:42:19.160Z",
+    "color": "hsl(128 60% 53%)",
     "pinned": false,
     "tags": [
       "anime"
     ],
     "type": "text",
     "meta": {},
-    "versions": [
-      {
-        "text": "my oni girl.",
-        "date": "2025-08-26T01:41:30.440Z"
-      }
-    ]
-  },
-  {
-    "id": "1756134292215210",
-    "text": "my oni girl.",
-    "created": "2025-08-25T15:04:52.215Z",
-    "color": "hsl(325 79% 54%)",
-    "pinned": false,
-    "tags": [
-      "anime"
-    ],
-    "type": "text",
-    "meta": {},
-    "versions": [
-      {
-        "text": "my oni girl.",
-        "date": "2025-08-26T01:41:30.440Z"
-      }
-    ]
+    "versions": []
   },
   {
     "id": "1756131602198609",
