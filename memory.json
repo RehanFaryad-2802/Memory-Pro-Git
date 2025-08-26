@@ -1,18 +1,5 @@
 [
   {
-    "id": "1756131602198609",
-    "text": "i wanna not to store image but its relative content must save like soure link, text (title) and tag (i just wanna not to store image only), give only related code",
-    "created": "2025-08-25T14:20:02.198Z",
-    "color": "hsl(320 64% 49%)",
-    "pinned": false,
-    "tags": [
-      "script"
-    ],
-    "type": "text",
-    "meta": {},
-    "versions": []
-  },
-  {
     "color": "hsl(349 68% 54%)",
     "created": "2025-08-25T14:15:51.381Z",
     "id": "1756131351381374",
