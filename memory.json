@@ -47,5 +47,63 @@
       "imageStored": false,
       "sourceUrl": "https://github.com/RehanFaryad-2802/Memory-Pro-Git-4"
     }
+  },
+  {
+    "color": "hsl(320 64% 49%)",
+    "created": "2025-08-25T14:20:02.198Z",
+    "id": "1756131602198609",
+    "meta": {},
+    "pinned": false,
+    "tags": [
+      "script"
+    ],
+    "text": "i wanna not to store image but its relative content must save like soure link, text (title) and tag (i just wanna not to store image only), give only related code",
+    "type": "text",
+    "versions": []
+  },
+  {
+    "color": "hsl(349 68% 54%)",
+    "created": "2025-08-25T14:15:51.381Z",
+    "id": "1756131351381374",
+    "meta": {
+      "sourceUrl": "https://www.youtube.com/watch?v=2B81DZHBByw"
+    },
+    "pinned": false,
+    "tags": [
+      "Content"
+    ],
+    "text": "Ek Villain Full Songs [Slowed+Reverb] -Audio Jukebox | Lofi music",
+    "type": "text",
+    "versions": []
+  },
+  {
+    "color": "hsl(160 60% 52%)",
+    "created": "2025-08-26T02:01:52.243Z",
+    "id": "1756173712243953",
+    "pinned": false,
+    "tags": [
+      "Content"
+    ],
+    "text": "Screenshot from Memory-Pro-Git/memory.json at main · RehanFaryad-2802/Memory-Pro-Git",
+    "type": "image",
+    "versions": [],
+    "meta": {
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com",
+      "sourceUrl": "https://github.com/RehanFaryad-2802/Memory-Pro-Git/blob/main/memory.json",
+      "imageStored": false
+    }
+  },
+  {
+    "color": "hsl(128 60% 53%)",
+    "created": "2025-08-26T01:42:19.160Z",
+    "id": "1756172539160992",
+    "meta": {},
+    "pinned": false,
+    "tags": [
+      "anime"
+    ],
+    "text": "my oni girl.\n\n---\n\nmy oni girl.",
+    "type": "text",
+    "versions": []
   }
 ]
