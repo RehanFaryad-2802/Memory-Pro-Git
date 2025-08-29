@@ -81,5 +81,20 @@
       "imageStored": false,
       "sourceUrl": "https://www.youtube.com/shorts/yO7z-kOP0fQ"
     }
+  },
+  {
+    "color": "hsl(155 63% 46%)",
+    "created": "2025-08-29T01:19:14.580Z",
+    "id": "1756430354580297",
+    "meta": {
+      "sourceUrl": "https://chatgpt.com/c/68adcfa1-bd94-8326-9cfa-b1d4615a17c6"
+    },
+    "pinned": false,
+    "tags": [
+      "Info"
+    ],
+    "text": "The \"Login with Google\" button is styled but not functional yet. If you want, I can also show you how to connect it with real Google authentication",
+    "type": "code",
+    "versions": []
   }
 ]
