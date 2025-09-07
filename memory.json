@@ -167,5 +167,22 @@
       "imageStored": false,
       "sourceUrl": "https://www.youtube.com/watch?v=a7G7_TEZbAk"
     }
+  },
+  {
+    "color": "hsl(208 73% 52%)",
+    "created": "2025-09-07T15:32:30.527Z",
+    "id": "1757259150527717",
+    "pinned": false,
+    "tags": [
+      "Content"
+    ],
+    "text": "Screenshot from #comedyeffect - YouTube",
+    "type": "image",
+    "versions": [],
+    "meta": {
+      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com",
+      "imageStored": false,
+      "sourceUrl": "https://www.youtube.com/shorts/asMMIobHitA"
+    }
   }
 ]
