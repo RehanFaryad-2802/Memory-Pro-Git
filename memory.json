@@ -29,7 +29,12 @@
     ],
     "text": "The \"Login with Google\" button is styled but not functional yet. If you want, I can also show you how to connect it with real Google authentication",
     "type": "code",
-    "versions": []
+    "versions": [
+      {
+        "text": "The \"Login with Google\" button is styled but not functional yet. If you want, I can also show you how to connect it with real Google authentication",
+        "date": "2025-09-10T02:13:16.036Z"
+      }
+    ]
   },
   {
     "color": "hsl(320 66% 53%)",
