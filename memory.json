@@ -102,23 +102,6 @@
     }
   },
   {
-    "color": "hsl(8 76% 51%)",
-    "created": "2025-09-12T15:25:39.275Z",
-    "id": "1757690739275177",
-    "pinned": false,
-    "tags": [
-      "Content"
-    ],
-    "text": "Screenshot from Minecraft - YouTube",
-    "type": "image",
-    "versions": [],
-    "meta": {
-      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com",
-      "imageStored": false,
-      "sourceUrl": "https://www.youtube.com/shorts/UiBnc2yYbN4"
-    }
-  },
-  {
     "color": "hsl(123 72% 49%)",
     "created": "2025-09-13T15:04:33.891Z",
     "id": "1757775873891180",
