@@ -1,18 +1,18 @@
 [
   {
-    "id": "1758380049097312",
-    "text": "Screenshot (visible) 9/20/2025, 7:54:09 PM",
-    "created": "2025-09-20T14:54:09.097Z",
     "color": "hsl(305 76% 49%)",
+    "created": "2025-09-20T14:54:09.097Z",
+    "id": "1758380049097312",
     "pinned": false,
     "tags": [
       "Youtube"
     ],
+    "text": "Screenshot (visible) 9/20/2025, 7:54:09 PM",
     "type": "image",
     "versions": [],
     "meta": {
-      "sourceUrl": "chrome-extension://hdffnajbpnjdhkbcgmkffipgmlchmpib/popup.html",
-      "imageStored": false
+      "imageStored": false,
+      "sourceUrl": "chrome-extension://hdffnajbpnjdhkbcgmkffipgmlchmpib/popup.html"
     }
   },
   {
@@ -63,28 +63,6 @@
       "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com",
       "sourceUrl": "https://www.youtube.com/shorts/fWHLn3yTgKw",
       "imageStored": false
-    }
-  },
-  {
-    "color": "hsl(30 72% 50%)",
-    "created": "2025-09-12T15:14:30.935Z",
-    "id": "1757690070935236",
-    "pinned": false,
-    "tags": [
-      "Anime"
-    ],
-    "text": "Screenshot from The Moment Kafka Hibino Gains His Aura 😱⚡ - YouTube",
-    "type": "image",
-    "versions": [
-      {
-        "text": "Screenshot from The Moment Kafka Hibino Gains His Aura 😱⚡ - YouTube",
-        "date": "2025-09-20T14:13:40.353Z"
-      }
-    ],
-    "meta": {
-      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com",
-      "imageStored": false,
-      "sourceUrl": "https://www.youtube.com/shorts/ACV1hTdrKzg"
     }
   },
   {
