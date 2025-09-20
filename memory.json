@@ -1,21 +1,5 @@
 [
   {
-    "color": "hsl(305 76% 49%)",
-    "created": "2025-09-20T14:54:09.097Z",
-    "id": "1758380049097312",
-    "pinned": false,
-    "tags": [
-      "Youtube"
-    ],
-    "text": "Screenshot (visible) 9/20/2025, 7:54:09 PM",
-    "type": "image",
-    "versions": [],
-    "meta": {
-      "imageStored": false,
-      "sourceUrl": "chrome-extension://hdffnajbpnjdhkbcgmkffipgmlchmpib/popup.html"
-    }
-  },
-  {
     "color": "hsl(354 64% 45%)",
     "created": "2025-09-20T14:44:46.265Z",
     "id": "1758379486265881",
