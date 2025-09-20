@@ -124,23 +124,6 @@
     }
   },
   {
-    "color": "hsl(152 65% 45%)",
-    "created": "2025-09-20T14:30:19.261Z",
-    "id": "1758378619261587",
-    "pinned": false,
-    "tags": [
-      "Chatgpt"
-    ],
-    "text": "Screenshot from Code review suggestions",
-    "type": "image",
-    "versions": [],
-    "meta": {
-      "favicon": "https://www.google.com/s2/favicons?domain=chatgpt.com",
-      "imageStored": false,
-      "sourceUrl": "https://chatgpt.com/c/68ceb925-e198-8324-8039-9726db224c21"
-    }
-  },
-  {
     "color": "hsl(194 62% 54%)",
     "created": "2025-09-20T14:30:01.798Z",
     "id": "1758378601798248",
@@ -155,6 +138,23 @@
       "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com",
       "imageStored": false,
       "sourceUrl": "https://www.youtube.com/watch?v=HAjRzKCK5UE&list=RDVHAYLOM0yEA&index=28"
+    }
+  },
+  {
+    "color": "hsl(292 61% 48%)",
+    "created": "2025-09-20T14:39:12.925Z",
+    "id": "175837915292533",
+    "pinned": false,
+    "tags": [
+      "Chat"
+    ],
+    "text": "Screenshot from Fix Image Display in Extension Locally - DeepSeek",
+    "type": "image",
+    "versions": [],
+    "meta": {
+      "favicon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com",
+      "imageStored": false,
+      "sourceUrl": "https://chat.deepseek.com/a/chat/s/7f19b69e-9171-49c1-b35c-4f1a1261dfdc"
     }
   }
 ]
