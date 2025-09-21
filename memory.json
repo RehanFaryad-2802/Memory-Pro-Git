@@ -83,5 +83,22 @@
       "sourceUrl": "https://www.youtube.com/shorts/s1RY127-UMM",
       "imageStored": false
     }
+  },
+  {
+    "color": "hsl(322 62% 50%)",
+    "created": "2025-09-21T02:31:13.569Z",
+    "id": "1758421873569868",
+    "pinned": false,
+    "tags": [
+      "Youtube"
+    ],
+    "text": "Screenshot from Rauf & Faik - Can't Buy Me Loving / La La La (это ли счастье ?) (OFFICIAL VIDEO) - YouTube",
+    "type": "image",
+    "versions": [],
+    "meta": {
+      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com",
+      "imageStored": false,
+      "sourceUrl": "https://www.youtube.com/watch?v=g5FoAy5C5z0&list=RDVHAYLOM0yEA&index=2"
+    }
   }
 ]
