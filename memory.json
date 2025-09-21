@@ -1,5 +1,54 @@
 [
   {
+    "color": "hsl(240 79% 49%)",
+    "created": "2025-09-21T02:48:27.585Z",
+    "id": "1758422907585977",
+    "pinned": false,
+    "tags": [
+      "Youtube"
+    ],
+    "text": "Screenshot from He's A Hero Even Withoht The Powers | Tobey Maguire | Song - Kamin (Slowed) #spiderman #edit #shorts - YouTube",
+    "type": "image",
+    "versions": [],
+    "meta": {
+      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com",
+      "imageStored": false,
+      "sourceUrl": "https://www.youtube.com/shorts/RiOB_lqPV2k"
+    }
+  },
+  {
+    "color": "hsl(162 63% 50%)",
+    "created": "2025-09-21T02:48:21.839Z",
+    "id": "1758422901839528",
+    "meta": {
+      "sourceUrl": "https://chat.deepseek.com/a/chat/s/6f264fa2-918a-478f-8ee9-06332a55b946"
+    },
+    "pinned": false,
+    "tags": [
+      "Info"
+    ],
+    "text": "These changes will:  Preserve all source URLs (including duplicates from the same domain)  Display image titles in the source links when available  Maintain backward compatibility with existing data  The solution stores source URLs as objects with both URL and title properties when available, but maintains compatibility with the old string format for existing data.",
+    "type": "text",
+    "versions": []
+  },
+  {
+    "color": "hsl(90 68% 54%)",
+    "created": "2025-09-21T02:48:16.986Z",
+    "id": "1758422896986604",
+    "pinned": false,
+    "tags": [
+      "Chat"
+    ],
+    "text": "Screenshot from Fix Duplicate Links and Image Titles - DeepSeek",
+    "type": "image",
+    "versions": [],
+    "meta": {
+      "favicon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com",
+      "imageStored": false,
+      "sourceUrl": "https://chat.deepseek.com/a/chat/s/6f264fa2-918a-478f-8ee9-06332a55b946"
+    }
+  },
+  {
     "color": "hsl(99 72% 48%)",
     "created": "2025-09-21T02:47:39.626Z",
     "id": "1758422859626665",
@@ -110,7 +159,7 @@
     "color": "hsl(272 78% 45%)",
     "created": "2025-09-18T10:22:35.652Z",
     "id": "1758190955652183",
-    "pinned": false,
+    "pinned": true,
     "tags": [
       "Content"
     ],
@@ -291,7 +340,7 @@
     "color": "hsl(272 78% 45%)",
     "created": "2025-09-18T10:22:35.652Z",
     "id": "1758190955652183",
-    "pinned": true,
+    "pinned": false,
     "tags": [
       "Content"
     ],
