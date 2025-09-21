@@ -327,22 +327,5 @@
       "sourceUrl": "https://www.youtube.com/shorts/s1RY127-UMM",
       "imageStored": false
     }
-  },
-  {
-    "color": "hsl(17 75% 50%)",
-    "created": "2025-09-21T02:42:20.823Z",
-    "id": "1758422540823744",
-    "pinned": false,
-    "tags": [
-      "Chat"
-    ],
-    "text": "Screenshot from Fix Duplicate Links and Image Titles - DeepSeek",
-    "type": "image",
-    "versions": [],
-    "meta": {
-      "favicon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com",
-      "imageStored": false,
-      "sourceUrl": "https://chat.deepseek.com/a/chat/s/6f264fa2-918a-478f-8ee9-06332a55b946"
-    }
   }
 ]
