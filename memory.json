@@ -66,7 +66,13 @@
       "Chat"
     ],
     "text": "[Image: Screenshot from He's A Hero Even Withoht The Powers | Tobey Maguire | Song - Kamin (Slowed) #spiderman #edit #shorts - YouTube]\nThese changes will:  Preserve all source URLs (including duplicates from the same domain)  Display image titles in the source links when available  Maintain backward compatibility with existing data  The solution stores source URLs as objects with both URL and title properties when available, but maintains compatibility with the old string format for existing data.\n[Image: Screenshot from Fix Duplicate Links and Image Titles - DeepSeek]\n--\n[Image: Screenshot from He's A Hero Even Withoht The Powers | Tobey Maguire | Song - Kamin (Slowed) #spiderman #edit #shorts - YouTube]\n[Image: Screenshot from \"The Saddest Movie OAT\" | The Green Mile Edit - Bruno Mars & Lady Gaga - Die With A Smile #shorts - YouTube]\n[Image: Screenshot from \"The Saddest Movie OAT\" | The Green Mile Edit - Bruno Mars & Lady Gaga - Die With A Smile #shorts - YouTube]\n--",
-    "type": "mixed"
+    "type": "mixed",
+    "versions": [
+      {
+        "text": "[Image: Screenshot from He's A Hero Even Withoht The Powers | Tobey Maguire | Song - Kamin (Slowed) #spiderman #edit #shorts - YouTube]\nThese changes will:  Preserve all source URLs (including duplicates from the same domain)  Display image titles in the source links when available  Maintain backward compatibility with existing data  The solution stores source URLs as objects with both URL and title properties when available, but maintains compatibility with the old string format for existing data.\n[Image: Screenshot from Fix Duplicate Links and Image Titles - DeepSeek]\n--\n[Image: Screenshot from He's A Hero Even Withoht The Powers | Tobey Maguire | Song - Kamin (Slowed) #spiderman #edit #shorts - YouTube]\n[Image: Screenshot from \"The Saddest Movie OAT\" | The Green Mile Edit - Bruno Mars & Lady Gaga - Die With A Smile #shorts - YouTube]\n[Image: Screenshot from \"The Saddest Movie OAT\" | The Green Mile Edit - Bruno Mars & Lady Gaga - Die With A Smile #shorts - YouTube]\n--",
+        "date": "2025-09-21T03:07:49.109Z"
+      }
+    ]
   },
   {
     "color": "hsl(99 72% 48%)",
