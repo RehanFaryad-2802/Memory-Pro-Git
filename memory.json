@@ -324,22 +324,5 @@
       "imageStored": false,
       "sourceUrl": "https://www.youtube.com/watch?v=HAjRzKCK5UE&list=RDVHAYLOM0yEA&index=27"
     }
-  },
-  {
-    "color": "hsl(152 65% 45%)",
-    "created": "2025-09-20T14:30:19.261Z",
-    "id": "1758378619261587",
-    "pinned": false,
-    "tags": [
-      "Chatgpt"
-    ],
-    "text": "Screenshot from Code review suggestions",
-    "type": "image",
-    "versions": [],
-    "meta": {
-      "favicon": "https://www.google.com/s2/favicons?domain=chatgpt.com",
-      "imageStored": false,
-      "sourceUrl": "https://chatgpt.com/c/68ceb925-e198-8324-8039-9726db224c21"
-    }
   }
 ]
